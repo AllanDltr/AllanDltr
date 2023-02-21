@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 
 ### :technologist: About me :
 
-- 🔭 : Actually learning at OpenClassrooms
 
-- 🌱 : Learning React
+- 🌱 : Actually learning React at OpenClassrooms
 
 ---
 
