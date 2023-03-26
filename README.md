@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### :technologist: About me :
 
-
+- <a href="https://portfolio-allandtr.vercel.app/"> Portfolio </a>
 - 🌱 : Actually learning React at OpenClassrooms
 
 ---
