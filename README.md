@@ -50,6 +50,16 @@ Here are some ideas to get you started:
 
 ---
 
+### 📖 Actually learning :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TypeScript" alt="TS" width="40" height="40"/>
+</div>
+
+---
+
 ### 🔥 My stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AllanDltr&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
