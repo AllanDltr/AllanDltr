@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-  hey there
+  Bienvenue
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 ---
 
-### :technologist: About me :
+### :technologist: A propos de moi :
 
 - <a href="https://portfolio-allandtr.vercel.app/"> Portfolio </a>
-- 🌱 : Actually learning React at OpenClassrooms
+- ⚡: Récemment diplômé d'OpenClassRooms
+- 🌱 : A la recherche d'opportunités professionnelles 
 
 ---
 
